@@ -26,12 +26,8 @@
   sub_pages:
     - title: Director
       url: director
-    - title: Post-Doctoral Fellows
-      url: post-doc-students
     - title: Graduate Students
       url: graduate-students
-    - title: Research Interns
-      url: research-interns
     - title: Alumni
       url: alumni
 - title: Collaboration
