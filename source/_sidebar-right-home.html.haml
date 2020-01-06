@@ -1,7 +1,10 @@
 / .home-panel
 %h3 Recent News
 - data.honors[0..2].each_with_index do |item, i|
-  %p= item
+  - if item.length > 300
+    %p= item[0..136] + "..."
+  - elsif item.length < 300
+    %p= item
   - if i < 2
     %hr
 %p
