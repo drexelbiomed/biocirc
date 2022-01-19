@@ -26,8 +26,8 @@
   sub_pages:
     - title: Director
       url: director
-    - title: Graduate Students
-      url: graduate-students
+    - title: Students and Interns
+      url: students
     - title: Alumni
       url: alumni
 - title: Collaboration
